@@ -24,7 +24,7 @@ pip install requests pyttsx3
 Run the script using:
 
 ```bash
-python chatbot.py
+python CodeX.py
 ```
 
 Then, enter your messages and receive AI-generated responses. Type `'exit'` to end the chat.
