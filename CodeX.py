@@ -2,7 +2,7 @@ import requests
 import pyttsx3
 
 # Set API Key
-API_KEY = "AIzaSyCDGdoZrW4V10rnTCCGRu6vWNs-AddIsfY"  # Replace with your actual key
+API_KEY = "your_gemini_api_key"  # Replace with your actual key
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 # Function to interact with Gemini AI API
