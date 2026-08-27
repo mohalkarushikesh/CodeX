@@ -36,6 +36,6 @@ Then, enter your messages and receive AI-generated responses. Type `'exit'` to e
 
 ## Notes
 - The chatbot currently supports text-based input/output.
-- Future improvements may include enhancements like GUI integration or additional speech features.
+- Future improvements include enhancements like GUI integration or additional speech features.
 
 
